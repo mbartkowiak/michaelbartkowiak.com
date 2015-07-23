@@ -3,6 +3,12 @@
 	width:100%;
 }
 
+#headertext{
+	text-align:center;
+	font-family: 'Droid Sans', serif;
+	font-size:60px;
+}
+
 table.center{
 	margin-left:auto;
 	margin-right:auto;
