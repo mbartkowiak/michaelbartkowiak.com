@@ -1,8 +1,31 @@
+nav {
+    display: block;
+	font-family: 'Droid Sans', serif;
+	font-size:20px;
+	text-align:center;
+}
+
+#headnav{
+	float:right;
+}
+#headdiv{
+	height:25px;
+}
+#headname{
+	font-size:20px;
+	text-align:left;
+	float:left;
+}
 #header {
 	height:4em;
 	width:100%;
 }
 
+.headertext{
+	text-align:center;
+	font-family: 'Droid Sans', serif;
+	font-size:60px;
+}
 #headertext{
 	text-align:center;
 	font-family: 'Droid Sans', serif;
@@ -22,7 +45,10 @@ table.center{
 }
 	
 .font{
-	font-family:Tahoma,Geneva,sans-serif;
+	text-align:center;
+	font-family: 'Droid Sans', serif;
+	font-size:60px;
+
 }
 
 .black{

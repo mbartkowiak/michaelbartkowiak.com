@@ -1,0 +1,77 @@
+#header {
+	height:4em;
+	width:100%;
+}
+
+#headertext{
+	text-align:center;
+	font-family: 'Droid Sans', serif;
+	font-size:60px;
+}
+
+table.center{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+	
+#content{
+	margin-left:auto;
+	margin-right:auto;
+	height:26em;
+}
+	
+.font{
+	font-family:Tahoma,Geneva,sans-serif;
+}
+
+.black{
+	color:black;
+}
+	
+/*#footer{
+	width:100%;
+	height: 4em;
+	left:0;
+}
+*/
+
+li{
+	position:inline;
+	float:left;
+	display:inline-block;
+	padding-top:20px;
+}
+	
+i{
+	padding-top:10px;
+	padding-left:12px;
+	text-decoration:none;
+	text-align:center;
+}
+
+div i{
+text-align:center;
+}
+
+/*link styling*/
+
+/* unvisited link */
+a:link {
+    color: #000000;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+    color: #585858;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
